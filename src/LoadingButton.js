@@ -21,7 +21,7 @@ export default React.createClass({
     }
     disabled = disabled || loading
     return <button class={classes} disabled={disabled} {...props}>
-      {loading && <Icon name='spinner' spin/>} {children}
+      {loading && <Icon name="spinner" spin/>} {children}
     </button>
   }
 })
