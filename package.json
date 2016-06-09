@@ -13,7 +13,8 @@
   "dependencies": {
     "bootstrap": "4.0.0-alpha.2",
     "react": "15.1.0",
-    "react-dom": "15.1.0"
+    "react-dom": "15.1.0",
+    "react-fa": "4.1.2"
   },
   "devDependencies": {
     "babel-plugin-react-html-attrs": "1.0.0",
